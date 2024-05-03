@@ -1,7 +1,3 @@
-Sure, here's a basic template for a README file for a Next.js app using NextAuth for authentication:
-
----
-
 # Next.js App with NextAuth Authentication
 
 ## Overview
